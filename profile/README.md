@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FundReachr/.github/main/public/og-image.png" alt="Fundreachr — Capital, in flight." width="100%" />
+<img src="https://raw.githubusercontent.com/FundReachr/.github/main/public/linkedin-banner.png" alt="Fundreachr — Capital, in flight." width="100%" />
 
 <br/>
 <br/>
