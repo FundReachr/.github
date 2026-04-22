@@ -102,7 +102,7 @@ Whether you're a founder ready to raise, an investor who wants to be in the data
 <div align="center">
   <img src="https://raw.githubusercontent.com/FundReachr/.github/main/public/logo-mark-dark.png" alt="Fundreachr" height="36" />
   <br/>
-  <sub><strong>WARM INTROS · CLOSED ROUNDS</strong></sub>
+  <sub><strong>FIND INVESTORS · CLOSED ROUNDS</strong></sub>
   <br/>
-  <sub>© 2025 FundReachr · Reaching Financial Goals Faster</sub>
+  <sub>© 2026 FundReachr · Reaching Financial Goals Faster</sub>
 </div>
