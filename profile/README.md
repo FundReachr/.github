@@ -19,26 +19,26 @@
 
 ## What is FundReachr?
 
-**FundReachr** is a fundraising intelligence platform built for founders who are done with cold outreach that goes nowhere. We surface warm investor introductions through your network, give you a purpose-built pipeline to manage your round, and put the signal back into fundraising.
+**FundReachr** is a cold outreach platform for founders raising capital. We give you access to a curated, continuously updated database of Business Angels and Venture Capital firms — searchable and filterable by investment thesis, stage, and geography — so you can find the right investors and reach out with precision.
 
-> *Fundraising shouldn't feel like shouting into the void. It should feel like a warm conversation that leads somewhere.*
+Stop guessing. Start pitching the people who are actually looking for what you're building.
 
 ---
 
 ## The Problem
 
-Cold outreach is broken. Most founders spend months crafting the perfect pitch email — and get silence in return. The reality:
+Finding the right investors is slow, manual, and fragmented. Founders waste weeks:
 
-- **90%+ of cold investor emails go unanswered**
-- Most of the right investors are already *one or two degrees away* — founders just can't see it
-- Generic CRMs aren't built for the nuance and pacing of a fundraising round
-- There's no feedback loop — founders fly blind until a term sheet lands (or doesn't)
+- Combing through LinkedIn, Crunchbase, and scattered lists to build investor targets
+- Reaching out to investors who are the wrong stage, wrong sector, or wrong geography
+- Sending the same generic pitch to hundreds of people with no real targeting
+- Losing track of who they've already contacted
 
 ---
 
 ## The Solution
 
-FundReachr flips the model. Instead of cold outreach, we surface **warm pathways** — the people in your extended network who can open the right doors — and wrap them with tools to move from intro to close with momentum.
+FundReachr puts a **searchable investor database** at your fingertips. Filter by what actually matters — thesis, check size, stage, geography — and reach out to investors who match your raise from day one.
 
 ---
 
@@ -47,22 +47,22 @@ FundReachr flips the model. Instead of cold outreach, we surface **warm pathways
 <table>
   <tr>
     <td width="50%">
-      <h3>Warm Intro Engine</h3>
-      <p>Maps your network against a curated investor database to surface mutual connections. No more guessing who knows who — see the path from you to the check.</p>
+      <h3>Investor Database</h3>
+      <p>A large, curated database of Business Angels and VC firms — continuously updated with accurate investment preferences, portfolio history, and contact information.</p>
     </td>
     <td width="50%">
-      <h3>Investor Matching</h3>
-      <p>AI-powered relevance scoring based on sector, stage, check size, geography, and portfolio fit. Surface investors who are actually likely to say yes.</p>
+      <h3>Precision Filtering</h3>
+      <p>Filter investors by investment thesis, target sectors, preferred stage (pre-seed to growth), check size, and geography. Find exactly who fits your raise.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Fundraising CRM</h3>
-      <p>A pipeline built for rounds, not sales. Track every intro, conversation, follow-up, and signal — from first contact to signed term sheet.</p>
+      <h3>Outreach Tools</h3>
+      <p>Reach out directly from the platform with the right contact details in hand — no copy-pasting, no dead ends.</p>
     </td>
     <td width="50%">
-      <h3>Round Analytics</h3>
-      <p>Real-time visibility into your round momentum, investor interest levels, and outreach performance. Know where you stand at every stage.</p>
+      <h3>Curated Data Quality</h3>
+      <p>Every investor profile is maintained for accuracy — investment preferences, active status, portfolio, and contact details — so you're never wasting shots on stale data.</p>
     </td>
   </tr>
 </table>
@@ -72,18 +72,26 @@ FundReachr flips the model. Instead of cold outreach, we surface **warm pathways
 ## How It Works
 
 ```
-  1. Build your profile         2. Get matched              3. Land the intro
-  ─────────────────────         ─────────────────           ──────────────────
-  Describe your company,        FundReachr surfaces         Request warm intros
-  stage, sector & targets.      relevant investors &        through mutual
-  Sync your network.            warm pathways to them.      connections. Close.
+  1. Define your raise        2. Filter & target          3. Reach out
+  ────────────────────        ──────────────────          ─────────────
+  Set your stage, sector,     Browse investors that       Contact investors
+  geography & check size.     match your criteria         directly from the
+                              from our database.          platform.
 ```
+
+---
+
+## Who It's For
+
+- **Pre-seed & seed founders** who need to build their investor target list fast
+- **Series A+ companies** running a structured, high-volume raise process
+- **First-time founders** who don't yet have a rolodex of investor contacts
 
 ---
 
 ## Our Repositories
 
-This organization hosts everything that powers the FundReachr platform — from the core web app and API to internal tooling, infrastructure config, and shared libraries. We build in the open where we can, and ship with speed and intention everywhere else.
+This organization hosts everything powering the FundReachr platform — web app, API, marketing site, and shared infrastructure.
 
 | Repository | Description |
 |---|---|
@@ -94,21 +102,11 @@ This organization hosts everything that powers the FundReachr platform — from 
 
 ---
 
-## Built For
-
-- **Pre-seed & Seed founders** mapping their investor targets for the first time
-- **Series A+ companies** running structured, process-driven rounds
-- **Operators** who know fundraising is a skill — and want the tooling to match
-
----
-
-## Contributing & Contact
-
-FundReachr's core product repos are private, but we welcome conversations about what we're building.
+## Contact
 
 - **Website:** [fundreachr.com](https://fundreachr.com)
 - **Email:** [hello@fundreachr.com](mailto:hello@fundreachr.com)
-- **For founders ready to raise:** [Get started →](https://fundreachr.com)
+- **Start your raise:** [Get access →](https://fundreachr.com)
 
 ---
 
